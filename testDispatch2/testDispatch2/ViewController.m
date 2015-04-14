@@ -213,7 +213,7 @@ char text[8] = "abcdefg";
 -(void)test
 {
 //    [self testQueue];
-    [self testGroup];
+    [self testGroup];   
 //    [self testBarrier];
 //    [self testSync];
 //    [self testCArray];
